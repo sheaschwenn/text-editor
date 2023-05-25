@@ -53,6 +53,7 @@ This project was a great introduction to what React does for us under the hood.
 * IndexDB
 * caching 
 * service workers 
+* installable applications with a manifest.json
 
 
 ## Author Info
