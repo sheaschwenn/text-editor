@@ -15,7 +15,7 @@ Progressive web application: text editor
 | Webpack | [https://webpack.js.org/](https://webpack.js.org/)     | 
 ## Description 
 
-[Visit the Deployed Site](https://youtu.be/BFyeuLhjcPY)
+[Visit the Deployed Site](https://nameless-brushlands-92210.herokuapp.com/)
 
 Downloadable text editor that can be used on and offline 
 
